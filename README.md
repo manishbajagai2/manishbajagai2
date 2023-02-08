@@ -32,7 +32,9 @@
 </div>
 
 <h3>:zap: Activity Graph</h3>
-  <img src="https://activity-graph.herokuapp.com/graph?username=manishbajagai2&theme=minimal"/>
+<div align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=manishbajagai2&bg_color=0d1117&area=true&area_color=48db4a&theme=github-compact" height=250 alt="graph" />
+</div>
 
 <h3>:zap: Other Details :</h3>
 
