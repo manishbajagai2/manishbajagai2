@@ -19,8 +19,8 @@
   
 ## A little about me:
 
-&nbsp; 🔭 &nbsp; I’m currently working on improving my coding skills <br/>
-&nbsp;🌱 &nbsp; I’m currently learning whatever I can 🤣 <br />
+&nbsp; 🔭 &nbsp; I’m currently working in [Cloudastra Technologies](https://www.cloudastra.co/) <br/>
+&nbsp;🌱 &nbsp; I’m currently learning everyday <br />
 &nbsp;💬 &nbsp; Ask me about things I may know. Always happy to help <br />
 &nbsp;📫 &nbsp; How to reach me : Email me at 📧 [Manish Bajagai](mailto:manishbajagai2@gmail.com?subject=[GitHub]%20Source%20Han%20Sans) <br />
 &nbsp;🕺🏻 &nbsp; Fun fact : I like to sketch, create jokes and play guitar at times. <br />
